@@ -1,0 +1,25 @@
+{
+  "name": "coss-styleguide",
+  "version": "1.0.0",
+  "description": "A living style guide that documents CoSS design elements in front-end code.",
+  "main": "-",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla-parsys/coss-styleguide.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mozilla-parsys/coss-styleguide/issues"
+  },
+  "homepage": "https://github.com/mozilla-parsys/coss-styleguide#readme",
+  "dependencies": {},
+  "scripts": {
+    "start": "fractal start --sync",
+    "build": "fractal build"
+  },
+  "devDependencies": {
+    "@frctl/fractal": "^1.1.7",
+    "@frctl/nunjucks": "^1.0.3"
+  }
+}
