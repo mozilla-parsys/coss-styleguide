@@ -16,4 +16,4 @@ fractal.docs.set('path', __dirname + '/src/docs');
 fractal.components.engine('@frctl/nunjucks'); 
 fractal.components.set('ext', '.jinja'); 
 
-fractal.components.set('default.preview', '@preview');
+fractal.components.set('default.preview', '@preview');fractal.web.set('static.path', __dirname + '/src/static');
