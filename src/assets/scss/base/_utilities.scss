@@ -1,0 +1,9 @@
+.container {
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+.visually-hidden {
+    position: absolute;
+    left: -9999em;
+}
