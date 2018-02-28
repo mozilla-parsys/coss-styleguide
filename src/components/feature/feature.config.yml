@@ -1,0 +1,6 @@
+context:
+  title: Open Source Clubs
+  intro: We’re fueling the open movement by creating a network of clubs on university campuses in the United States who learn about and contribute to open source. 
+  call_to_action: 
+    title: Register your club
+    url: '/register'
