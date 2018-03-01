@@ -1,4 +1,4 @@
-A footer contains:
+A feature contains:
 
-* One or more links with icons
-* The Mozilla logo and a Mozilla about text
+* Heading, intro text and a call to action
+* A background image
