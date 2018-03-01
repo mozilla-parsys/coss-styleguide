@@ -5,8 +5,16 @@
 $bodyBackground: #000;
 $featureBackground: #ff4f53;
 
+
 @import 'base/base';
 @import 'base/utilities';
 
 @import 'components';
 
+.container {
+color: #fff;
+}
+
+.navigation a {
+  color: #Fff;
+}

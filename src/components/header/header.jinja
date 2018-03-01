@@ -1,0 +1,15 @@
+<header class="header {{ modifier }}">
+  {% if logo %}
+  <a href="{{ logo.link }}" class="header__logo"><img src="{{ logo.image }}" alt="{{ logo.alt }}"></a>
+  {% endif %}
+  {% if links %}
+  <nav class="navigation">
+  {% for link in links %}
+    <a href="{{ link.url }}">{{ link.text }}</a>
+  {% endfor %}
+  </ul>
+  </nav>
+  {% endif %}
+</header>
+
+

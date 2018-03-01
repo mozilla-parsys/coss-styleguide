@@ -1,0 +1,16 @@
+context:
+  logo:
+    image: /images/mozilla.svg
+    url: https://opensource.mozilla.community
+    alt: Open Source Student Network - Mozilla
+  links:
+   - text: Find a club
+     url: /find-a-club
+   - text: Find an activity
+     url: /find-an-activity
+   - text: About us
+     url: /about-us
+   - text: FAQ
+     url: /faq
+   - text: Resources
+     url: /resources
