@@ -4,7 +4,7 @@
 
 $bodyBackground: #000;
 $featureBackground: #ff4f53;
-
+$borderColor: #fff;
 
 @import 'base/base';
 @import 'base/utilities';
@@ -12,9 +12,5 @@ $featureBackground: #ff4f53;
 @import 'components';
 
 .container {
-color: #fff;
-}
-
-.navigation a {
-  color: #Fff;
+  color: #fff;
 }
