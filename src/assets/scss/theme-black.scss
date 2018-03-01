@@ -1,1 +1,12 @@
+// Base styling
+
+@import 'base/vars';
+
+$bodyBackground: #000;
+$featureBackground: #ff4f53;
+
+@import 'base/base';
+@import 'base/utilities';
+
 @import 'components';
+

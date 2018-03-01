@@ -1,1 +1,10 @@
+// Base styling
+
+@import 'base/vars';
+@import 'base/base';
+@import 'base/utilities';
+
+$featureBackground: linear-gradient(222deg,#ff272d 0,#c42482 33%,#ab217f 47%,#671878 84%,#4a1475 100%);
+
 @import 'components';
+
