@@ -1,0 +1,9 @@
+.feature {
+  background: $featureBackground;
+  color: #fff;
+  padding: 2em 0;
+
+  @media ( min-width: 50em ) {
+    padding: 4em 0;
+  }
+}
